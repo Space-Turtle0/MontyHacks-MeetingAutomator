@@ -198,7 +198,7 @@ def CLI():
 
                 if linktype == "Zoom":
                     #This URL automatically opens zoom and joins the meeting. Basically a 0-touch feature. 
-                    URL = URL.replace("http://", "zoommtg://")
+                    URL = URL.replace("https://", "zoommtg://")
                 
                 elif linktype == "Google Meet":
                     #Google Meet does not support 0-touch as it is a web browser type meeting and does not have a waiting room.
