@@ -1,6 +1,6 @@
 # MontyHacks-ZoomAutomator
  
-ZoomAutomator by Rohit Penta
+ZoomAutomator by Rohit
 
 I'll quickly go over what this does and how it works.
 
